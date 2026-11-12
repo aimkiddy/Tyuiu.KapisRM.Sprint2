@@ -1,7 +1,7 @@
 ﻿using System;
 using Tyuiu.KapisRM.Sprint2.Task5.V5.Lib;
 
-namespace Sprint2.Task5.V5
+namespace Tyuiu.KapisRM.Sprint2.Task5.V5
 {
     class Program
     {
